@@ -6,18 +6,17 @@ rem
 rem All rights reserved.
 rem 
 rem Redistribution and use in source and binary forms, with or without
-rem modification, are permitted provided that the following conditions are
-rem met:
-rem 
-rem   1. Redistributions of source code must retain the above copyright
-rem      notice, this list of conditions and the following disclaimer.
-rem   2. Redistributions in binary form must reproduce the above copyright
-rem      notice, this list of conditions and the following disclaimer in
-rem      the documentation and/or other materials provided with the
-rem      distribution.
-rem   3. Neither the name of the project nor the names of its contributors
-rem      may be used to endorse or promote products derived from this
-rem      software without specific prior written permission.
+rem modification, are permitted provided that the following conditions
+rem are met:
+rem     1. Redistributions of source code must retain the above copyright
+rem        notice, this list of conditions and the following disclaimer.
+rem     2. Redistributions in binary form must reproduce the above copyright
+rem        notice, this list of conditions and the following disclaimer in
+rem        the documentation and/or other materials provided with the
+rem        distribution.
+rem     3. Neither the name of the project nor the names of its contributors
+rem        may be used to endorse or promote products derived from this
+rem        software without specific prior written permission.
 rem 
 rem THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
 rem "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
